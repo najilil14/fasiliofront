@@ -1,4 +1,6 @@
-# React + Vite
+# React + Vite + Redux + react-router-dom = Fasilio Front
+By Najilil14 --
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
